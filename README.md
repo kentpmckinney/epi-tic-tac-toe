@@ -1,3 +1,5 @@
+<!-- Category: HTML/CSS/JS -->
+
 # Epicodus Tic Tac Toe
 
 #### _A responsive tic tac toe game, built with flexbox and css grid. 2.16.2020_
