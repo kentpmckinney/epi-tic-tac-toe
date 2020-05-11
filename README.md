@@ -1,58 +1,65 @@
 <!-- Category: Epicodus;Games;HTML/CSS/JS -->
-
 # Tic-tac-toe
+
+A game
+
 https://github.com/kentpmckinney/epi-tic-tac-toe
 
-##### Author: Kent McKinney - [GitHub](https://github.com/kentpmckinney) and Winter Runion
-##### Copyright &copy; 2020 Kent McKinney
-### Description:
+## Previewing this Project
 
-``A responsive tic tac toe game, built with flexbox and css grid``
+This project is hosted at: https://kentpmckinney.github.io/epi-tic-tac-toe
 
-### Setup Instructions:
-    1. Download a copy of the source code from GitHub from https://github.com/kentpmckinney/epi-tic-tac-toe
-    2. Navigate to the location of the downloaded source files
-    3. Run the file "index.html" in a web browser
-
-### Changelog:
-
-
-### Specifications:
+## How to Play the Game
 
 
 
-## Description
+## Working with the Source Code
 
-_A web app that allows users to play tic tac toe against an opponent, or the computer. If the user choses to play against the computer, they have the option to play on "easy" or "hard" mode._
+The following instructions explain how to set up a development environment for this project on MacOS. Steps will differ depending on the operating system.
+
+### Prerequisites
+
+The following software must be installed and properly configured on the target machine. 
+
+```
+An updated web browser (Internet Explorer is not compatible)
+```
+```
+Git (optional but recommended)
+```
+
+### Setting up a Development Environment
+
+1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-tic-tac-toe
+   or clone using the repository link: https://github.com/kentpmckinney/epi-tic-tac-toe.git
+2. Navigate to the folder location of the source files in Finder or in the Terminal
+3. Launch a web browser so that it opens index.html
+
+## Running Automated Tests
+
+how to run the automated tests
+
+```
+example
+```
+
+## Deployment
 
 
-### Specs
-
-//To do
-<!-- | Spec | Input | Output |
-| :-------------     | :------------- | :------------- |
-| **Homepage** | User accesses localhost:5004 | Homepage with user input form |
-| **Program Gathers User Input** | User input: "pants" | Output: "pants" |
-| **Program Removes Spaces from User Input**| User Input: "pants pants" | Output: "pantspants" |
-| **Program Removes Punctuation from User Input**| Input: "p#an^t@s  /p(ant%s" | Output: "pantspants" |
-| **Program Assigns Characters Numeric Values** | Input: "pants" | Output: "3 1 1 1 1" |
-| **Program Sums Character Values**| Input: "3 1 1 1 1" | Page Displays: 7 | -->
-
-## Setup/Installation Requirements
-
-
-## Known Bugs
-* No known bugs at this time.
 
 ## Technologies Used
 
+* JavaScript
+* HTML
+* CSS
 
-## Support and contact details
+## Authors
+
+Kent McKinney - [GitHub](https://github.com/kentpmckinney) - [LinkedIn](https://www.linkedin.com/in/kentpmckinney/)
+Winter Runion
+
+### Copyright &copy; 2020 Kent P. McKinney
+
+## Acknowledgments
 
 
-
-### License
-
-*{This software is licensed under the MIT license}*
-
-Copyright (c) 2020 **_{Kent P. McKinney, Winter A. Runion}_**
