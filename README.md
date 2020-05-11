@@ -1,10 +1,25 @@
-<!-- Category: HTML/CSS/JS -->
+<!-- Category: Epicodus;Games;HTML/CSS/JS -->
 
-# Epicodus Tic Tac Toe
+# Tic-tac-toe
+https://github.com/kentpmckinney/epi-tic-tac-toe
 
-#### _A responsive tic tac toe game, built with flexbox and css grid. 2.16.2020_
+##### Author: Kent McKinney - [GitHub](https://github.com/kentpmckinney) and Winter Runion
+##### Copyright &copy; 2020 Kent McKinney
+### Description:
 
-#### By **Kent McKinney and Winter A. Runion**
+``A responsive tic tac toe game, built with flexbox and css grid``
+
+### Setup Instructions:
+    1. Download a copy of the source code from GitHub from https://github.com/kentpmckinney/epi-tic-tac-toe
+    2. Navigate to the location of the downloaded source files
+    3. Run the file "index.html" in a web browser
+
+### Changelog:
+
+
+### Specifications:
+
+
 
 ## Description
 
