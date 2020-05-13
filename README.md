@@ -1,7 +1,7 @@
 <!-- Category: Epicodus;Games;HTML/CSS/JS -->
 # Tic-tac-toe
 
-A game
+The classic game
 
 https://github.com/kentpmckinney/epi-tic-tac-toe
 
@@ -11,7 +11,7 @@ This project is hosted at: https://kentpmckinney.github.io/epi-tic-tac-toe
 
 ## How to Play the Game
 
-
+Two players take turns marking X's and O's, respectively, on a board with nine squares. The first to make three of their marks in succession wins.
 
 ## Working with the Source Code
 
@@ -35,31 +35,25 @@ Git (optional but recommended)
 2. Navigate to the folder location of the source files in Finder or in the Terminal
 3. Launch a web browser so that it opens index.html
 
-## Running Automated Tests
-
-how to run the automated tests
-
-```
-example
-```
-
 ## Deployment
 
-
+Source files are deployable as-is
 
 ## Technologies Used
 
 * JavaScript
 * HTML
 * CSS
+* Jquery
+* Semantic UI
 
 ## Authors
 
 Kent McKinney - [GitHub](https://github.com/kentpmckinney) - [LinkedIn](https://www.linkedin.com/in/kentpmckinney/)
 Winter Runion
 
-### Copyright &copy; 2020 Kent P. McKinney
+### Copyright &copy; 2020 Kent P. McKinney and Winter Runion
 
 ## Acknowledgments
 
-
+https://www.learnhowtoprogram.com/intermediate-javascript/object-oriented-javascript/game-of-choice-two-day-project
